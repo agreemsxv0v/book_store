@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/realistic-background-world-book-day_23-2147605758.jpg?t=st=1728748616~exp=1728752216~hmac=a5c40ae0fbfcfaa57607cee24bd9151482ca49cd19b5cace8f28316ddacd3342&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/realistic-background-world-book-day_23-2147605758.jpg?t=st=1728748616~exp=1728752216~hmac=a5c40ae0fbfcfaa57607cee24bd9151482ca49cd19b5cace8f28316ddacd3342&w=740"
+    },
+    {
+        "id":3,
+        "name":"Thriller Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/realistic-background-world-book-day_23-2147605758.jpg?t=st=1728748616~exp=1728752216~hmac=a5c40ae0fbfcfaa57607cee24bd9151482ca49cd19b5cace8f28316ddacd3342&w=740"
+    },
+    {
+        "id":4,
+        "name":"Horrer Story Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":40,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/realistic-background-world-book-day_23-2147605758.jpg?t=st=1728748616~exp=1728752216~hmac=a5c40ae0fbfcfaa57607cee24bd9151482ca49cd19b5cace8f28316ddacd3342&w=740"
+    },
+    {
+        "id":5,
+        "name":"Adventure Story Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":20,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/realistic-background-world-book-day_23-2147605758.jpg?t=st=1728748616~exp=1728752216~hmac=a5c40ae0fbfcfaa57607cee24bd9151482ca49cd19b5cace8f28316ddacd3342&w=740"
+    },
+    {
+        "id":6,
+        "name":"Science Fiction Book5",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":50,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/realistic-background-world-book-day_23-2147605758.jpg?t=st=1728748616~exp=1728752216~hmac=a5c40ae0fbfcfaa57607cee24bd9151482ca49cd19b5cace8f28316ddacd3342&w=740"
+    },
+    {
+        "id":7,
+        "name":"Magic Book6",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":20,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/realistic-background-world-book-day_23-2147605758.jpg?t=st=1728748616~exp=1728752216~hmac=a5c40ae0fbfcfaa57607cee24bd9151482ca49cd19b5cace8f28316ddacd3342&w=740"
+    },
+    {
+        "id":8,
+        "name":"Freedom Fighter Book7",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":20,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/realistic-background-world-book-day_23-2147605758.jpg?t=st=1728748616~exp=1728752216~hmac=a5c40ae0fbfcfaa57607cee24bd9151482ca49cd19b5cace8f28316ddacd3342&w=740"
+    }
+]
